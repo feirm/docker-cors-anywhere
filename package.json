@@ -1,0 +1,11 @@
+{
+  "name": "docker-cors-anywhere",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:feirm/docker-cors-anywhere.git",
+  "author": "Jack Coble <jack@coble.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
